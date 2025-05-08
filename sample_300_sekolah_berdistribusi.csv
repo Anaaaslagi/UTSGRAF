@@ -1,0 +1,301 @@
+kode_prop,propinsi,kode_kab_kota,kabupaten_kota,kode_kec,kecamatan,npsn,sekolah,bentuk,status,alamat_jalan,lintang,bujur
+60000,Prov. Aceh,61200,Kab. Bireuen,61213,Kec. Kota Juang,10106847,SD NEGERI 18 BIREUEN,SD,N,Jl. Pendidikan Bireuen Meunasah Blang,5.2017,96.872
+60000,Prov. Aceh,60200,Kab. Pidie,60221,Kec. Pidie,10100853,SD NEGERI DAYAH TEUNGOH,SD,N,Jalan Prof A Majid Ibrahim Km 115,5.3561,95.9424
+60000,Prov. Aceh,60300,Kab. Aceh Utara,60303,Kec. Kuta Makmur,10105938,SD NEGERI 17 KUTA MAKMUR,SD,N,Alue Rambe,5.0689,97.0669
+60000,Prov. Aceh,60100,Kab. Aceh Besar,60123,Kec. Blang Bintang,10100307,SD NEGERI COT BUKET,SD,N,Jl Desa Cot Leuot,5.4958,95.4192
+60000,Prov. Aceh,61400,Kab. Aceh Tamiang,61402,Kec. Kejuruan Muda,10104264,SMP SWASTA AL WASHLIYAH SEUMADAM,SMP,S,Jl. Pulau Tiga - Seumadam,4.2213,97.9988
+60000,Prov. Aceh,60300,Kab. Aceh Utara,60322,Kec. Dewantara,10101312,SMA NEGERI 2 DEWANTARA,SMA,N,JL. MASJID JABAL NUR BTN ARON PALOH LADA,5.2488,97.0073
+60000,Prov. Aceh,61500,Kab. Nagan Raya,61507,Kec. Tadu Raya,10104664,SD NEGERI KRUENG BULOH RAYEUK,SD,N,Desa Simpang Jaya,4.0515,96.4864
+60000,Prov. Aceh,60400,Kab. Aceh Timur,60419,Kec. Sungai Raya,10102113,SDN 2 SUNGAI RAYA,SD,N,Sungai Raya,4.6704,97.9207
+220000,Prov. Bali,220200,Kab. Jembrana,220201,Kec. Melaya,50100972,SD NEGERI 2 MANISTUTU,SD,N,Banjar Kemoning,-8.2861267,114.5833983
+220000,Prov. Bali,220300,Kab. Tabanan,220304,Kec. Kediri,50101475,SD NEGERI 2 BENGKEL,SD,N,Dusun Buduk,-8.5263,115.152
+220000,Prov. Bali,226000,Kota Denpasar,226002,Kec. Denpasar Timur,50103133,SMP NEGERI 8 DENPASAR,SMP,N,Jalan Meduri Denpasar Timur,-8.644587,115.2344
+220000,Prov. Bali,220500,Kab. Gianyar,220504,Kec. Tampak siring,50102172,SD NEGERI 1 PEJENG KAJA,SD,N,Br. Belusung,-8.4737,115.2938
+220000,Prov. Bali,220400,Kab. Badung,220405,Kec. Abiansemal,50101795,SD NEGERI 1 SEDANG,SD,N,Jlan Kamboja Br Sigaran,-8.548,115.2005
+220000,Prov. Bali,220300,Kab. Tabanan,220310,Kec. Selemadeg Timur,50101136,SMP NEGERI 1 SELEMADEG TIMUR,SMP,N,Jl. Kahyangan Bunutpuhun,-8.5037,115.0614
+220000,Prov. Bali,220100,Kab. Buleleng,220102,Kec. Seririt,50100273,SMP PGRI SERIRIT,SMP,S,Jl Diponegoro No 104 Seririt,-8.2007,114.9133
+220000,Prov. Bali,220100,Kab. Buleleng,220107,Kec. Sawan,50100173,SD NEGERI 2 LEMUKIH,SD,N,Banjar Dinas Buah Banjah,-8.2081,115.2012
+290000,Prov. Bangka Belitung,290400,Kab. Bangka Barat,290401,Kec. Kelapa,10900611,SMP Negeri 1 Kelapa,SMP,N,Jl. Pusuk No. 6 Kelapa,-1.8753,105.6755
+290000,Prov. Bangka Belitung,290100,Kab. Bangka,290109,Kec. Sungailiat,10900257,SD N 10 SUNGAILIAT,SD,N,Jl. Singayudha II,-1.8866,106.1077
+290000,Prov. Bangka Belitung,290600,Kab. Belitung Timur,290607,Kec. Simpang Pesak,10900959,SD NEGERI 5 SIMPANG PESAK,SD,N,Dusun Air Lanun,-3.237185,107.97447
+290000,Prov. Bangka Belitung,290100,Kab. Bangka,290113,Kec. Belinyu,10900323,SD N 27 BELINYU,SD,N,Jl. Dusun Gedong,-1.766472,105.8454949
+290000,Prov. Bangka Belitung,290200,Kab. Belitung,290206,Kec. Tanjung Pandan,10900379,SD NEGERI 47 TANJUNGPANDAN,SD,N,Dsn Air Mungkui,-2.7830267,107.7339317
+290000,Prov. Bangka Belitung,296000,Kota Pangkalpinang,296091,Kec. Gabek,10901184,SD SANTO PAULUS I,SD,S,Jl. BELANAK RAYA,-2.110098,106.1338
+290000,Prov. Bangka Belitung,290400,Kab. Bangka Barat,290406,Kec. Parittiga,10900582,SD Negeri 16 Parittiga,SD,N,Sinar Kelabat,-1.5944,105.6127
+290000,Prov. Bangka Belitung,290200,Kab. Belitung,290206,Kec. Tanjung Pandan,10900520,SD N 28 TANJUNGPANDAN,SD,N,Jl. Gatot Subroto,-2.733816,107.6451921
+280000,Prov. Banten,286200,Kota Serang,286206,Kec. Walantaka,20605986,SD NEGERI CIGOONG 2,SD,N,Jl. Cilingsir Rt.10/02 No.184,-6.1591,106.2075
+280000,Prov. Banten,280300,Kab. Tangerang,280305,Kec. Curug,20616536,SDS ISLAM AS SALAM II,SD,S,Jl. Pasirandu,-6.2511,106.5899
+280000,Prov. Banten,280400,Kab. Serang,280403,Kec. Ciomas,20605369,SD NEGERI UJUNG TEBU 1,SD,N,Jl.mandalawangi-ciomas km-6. Kp. Ujung Tebu,-6.2573,106.0048
+280000,Prov. Banten,286000,Kota Cilegon,286008,Kec. Citangkil,20606275,SD N TEMIANG,SD,N,Link.Temiang RT 10 / 05,-6.0314919,106.018809
+280000,Prov. Banten,280400,Kab. Serang,280431,Kec. Binuang,20615736,SMP NUSANTARA BINUANG,SMP,S,Jl Syekh Ciliwulung Km 03 Jati Gede,-6.1131,106.3511
+280000,Prov. Banten,280100,Kab. Pandeglang,280110,Kec. Saketi,20600388,SD N MEDALSARI 2,SD,N,Kp. Kadulaka,-6.4212,105.9467
+280000,Prov. Banten,286100,Kota Tangerang,286112,Kec. Periuk,20607025,SDFELLYCIA,SD,S,Jl. Anggrek Kav 20 Villa Tangerang Regency,-6.1699,106.5936
+280000,Prov. Banten,280400,Kab. Serang,280411,Kec. Kopo,20616242,SMKS PUTRA TAMA MANDIRI,SMK,S,JL. CIKANDE-KOPO KM.12 KP. PADAHARAN DESA CIDAHU KEC. KOPO,-6.1743,106.2389
+260000,Prov. Bengkulu,260400,Kab. Muko-muko,260491,Kec. Ipuh,10701136,SD NEGERI 08 IPUH,SD,N,Desa Manunggal Jaya,-2.6969,101.3376
+260000,Prov. Bengkulu,260100,Kab. Bengkulu Utara,260117,Kec. Air Napal,10700320,SD NEGERI 02 AIR NAPAL,SD,N,Ds.pasar Tebat,-3.1115,101.7924
+260000,Prov. Bengkulu,266000,Kota Bengkulu,266007,Kec. Ratu Samban,10703074,SD NEGERI 02 KOTA BENGKULU,SD,N,Jl. Fatmawati,-3.8107,102.2681
+260000,Prov. Bengkulu,260800,Kab. Seluma,260804,Kec. Semidang Alas Maras,10701604,SD NEGERI 47 SELUMA,SD,N,Desa Talang Beringin,-4.2599,102.7591
+260000,Prov. Bengkulu,260300,Kab. Bengkulu Selatan,260315,Kec. Pinoraya,10701077,SD NEGERI 99 BENGKULU SELATAN,SD,N,Jalan Raya  Padang Lagan,-4.3063,102.8814
+260000,Prov. Bengkulu,260200,Kab. Rejang Lebong,260204,Kec. Curup,10700781,SD NEGERI 6 REJANG LEBONG,SD,N,Jl. Setia Negara No.34,-3.3093,102.4894
+260000,Prov. Bengkulu,260800,Kab. Seluma,260809,Kec. Seluma Selatan,10701729,SD NEGERI 72 SELUMA,SD,N,Sengkuang,-3.9843,102.6087
+260000,Prov. Bengkulu,260800,Kab. Seluma,260803,Kec. Sukaraja,10701716,SD NEGERI 67 SELUMA,SD,N,Desa Riak Siabun,-3.8629,102.5687
+40000,Prov. D.I. Yogyakarta,40200,Kab. Sleman,40211,Kec. Ngemplak,20404095,SD NEGERI BANJARHARJO,SD,N,Kragilan,-7.6865,110.4596
+40000,Prov. D.I. Yogyakarta,40300,Kab. Gunung Kidul,40311,Kec. Patuk,20407330,SMP NEGERI 5 PATUK,SMP,N,"Kembang, Nglegi, Patuk, Gunungkidul",-7.8675,110.5597
+40000,Prov. D.I. Yogyakarta,40100,Kab. Bantul,40115,Kec. Kasihan,20400229,SD NEGERI KARANGJATI,SD,N,Tamantirto,-7.836,110.3214
+40000,Prov. D.I. Yogyakarta,40200,Kab. Sleman,40211,Kec. Ngemplak,20401085,SMP NEGERI 2 NGEMPLAK,SMP,N,Macanan,-7.7073,110.4655
+40000,Prov. D.I. Yogyakarta,40300,Kab. Gunung Kidul,40309,Kec. Wonosari,69873978,SMP AL ISLAM WONOSARI,SMP,S,"Jl. Tentara Pelajar Trimulyo, Kepek, Wonosari, Gunungkidul",-7.9701317,110.5955567
+40000,Prov. D.I. Yogyakarta,40200,Kab. Sleman,40201,Kec. Moyudan,20401351,SD MUHAMMADIYAH KARANGANJIR,SD,S,Karanganjir Sumberarum Moyudan,-7.7727,110.2486
+40000,Prov. D.I. Yogyakarta,40200,Kab. Sleman,40213,Kec. Sleman,20400877,SLB BAKTI SIWI,SLB,S,Jl. Dr. Radjimin Pangukan,-7.7104,110.3449
+40000,Prov. D.I. Yogyakarta,40100,Kab. Bantul,40117,Kec. Sedayu,20400663,SD NEGERI BANDUT,SD,N,"Bandut Kidul, Argorejo,sedayu",-7.8221,110.2674
+10000,Prov. D.K.I. Jakarta,16400,Kota Jakarta Timur,16408,Kec. Cakung,20103479,SDN UJUNG MENTENG 02,SD,N,Jl. Irigasi RT 001/008,-6.1831,106.9602
+10000,Prov. D.K.I. Jakarta,16400,Kota Jakarta Timur,16408,Kec. Cakung,20103478,SD NEGERI UJUNG MENTENG 03 PAGI,SD,N,Jl. Irigasi Rt. 001/08,-6.1831,106.9602
+10000,Prov. D.K.I. Jakarta,16100,Kota Jakarta Utara,16103,Kec. Tanjung Priok,20109353,SD MAS INTAN,SD,S,Jl. Kamp. Bahari Gg III NO 165 RT.07/RW.02,-6.1189,106.8727
+10000,Prov. D.K.I. Jakarta,16300,Kota Jakarta Selatan,16302,Kec. Pasar Minggu,20106082,SD NEGERI PEJATEN BARAT 02 PT,SD,N,Jl. Conget Pejaten No.16,-6.2763,106.8306
+10000,Prov. D.K.I. Jakarta,16300,Kota Jakarta Selatan,16307,Kec. Mampang Prapatan,20106118,SDN Pela Mampang 12 Pg.,SD,N,"Jl. Bangka VII Bawah, RT.009 RW.011",-6.2486,106.8117
+10000,Prov. D.K.I. Jakarta,16200,Kota Jakarta Barat,16201,Kec. Kembangan,20106823,SMP Kembangan,SMP,S,Jl. Meruya Utara Kav. DKI Blok VI,-6.1932,106.749
+10000,Prov. D.K.I. Jakarta,16200,Kota Jakarta Barat,16207,Kec. Cengkareng,20102020,SD NEGERI KAPUK 15 PAGI,SD,N,Jl. Kapuk AMD RT. 010/11,-6.1306,106.7419
+10000,Prov. D.K.I. Jakarta,16300,Kota Jakarta Selatan,16305,Kec. Kebayoran Lama,20105917,SDN Grogol Utara 14 Pt.,SD,N,Jl. Kemandoran I,-6.2098,106.79
+300000,Prov. Gorontalo,300300,Kab. Pohuwato,300311,Kec. Buntulia,40501909,SMP NEGERI 2 BUNTULIA,SMP,N,Jl. Tambang Mas,0.5336,121.958
+300000,Prov. Gorontalo,300200,Kab. Gorontalo,300208,Kec. Telaga,40500417,SMP NEGERI 2 TELAGA,SMP,N,Jalan Teknik No. 169 Telaga,0.5788,123.0409
+300000,Prov. Gorontalo,300200,Kab. Gorontalo,300218,Kec. Telaga Biru,40501863,SMP NEGERI 7 TELAGA BIRU,SMP,N,Jalan Teratai Jaya,0.5982,123.0196
+300000,Prov. Gorontalo,300300,Kab. Pohuwato,300304,Kec. Lemito,40500720,SDN 06 LEMITO,SD,N,Jl.Trans Sulawesi,0.546,121.5803
+300000,Prov. Gorontalo,300500,Kab. Gorontalo Utara,300508,Kec. Ponelo Kepulauan,40502663,SMP NEGERI 2 PONELO KEPULAUAN,SMP,N,Ponelo Kepulauan,0.8626,122.8869
+300000,Prov. Gorontalo,300200,Kab. Gorontalo,300203,Kec. Tibawa,60726167,SD NEGERI 29 TIBAWA,SD,N,Dusun Durian,0.7432067,122.8037587
+300000,Prov. Gorontalo,300300,Kab. Pohuwato,300303,Kec. Paguat,40500742,SMP NEGERI 2 PAGUAT,SMP,N,Jln Trans Sulawesi,0.4768,122.0109
+300000,Prov. Gorontalo,300200,Kab. Gorontalo,300216,Kec. Mootilango,40501465,SD NEGERI 13 MOOTILANGO,SD,N,Jln. Pelabuhan Anggrek,0.7228,122.677
+100000,Prov. Jambi,100700,Kab. Muaro Jambi,100708,Kec. Sungai Gelam,10502808,SMP NEGERI 19 MUARO JAMBI,SMP,N,Jl. Raya Talang Belido - Ladang Panjang,-1.7106,103.6772
+100000,Prov. Jambi,100800,Kab. Tanjung Jabung Timur,100811,Kec. Kuala Jambi,10504217,SD NEGERI 176X MAJELIS HIDAYAH,SD,N,Teluk Majelis,-1.1292,103.9889
+100000,Prov. Jambi,100700,Kab. Muaro Jambi,100701,Kec. Jambi Luar Kota,10502883,SD NEGERI 212IX SARANG BURUNG,SD,N,JL. PEMATANG BEDARO,-1.5881,103.5552
+100000,Prov. Jambi,100500,Kab. Kerinci,100503,Kec. Keliling Danau,10502618,SD NEGERI 15III TANJUNG PAUH MUDIK,SD,N,Tanjung Pauh Mudik,-2.0943,101.4902
+100000,Prov. Jambi,100500,Kab. Kerinci,100518,Kec. Bukit Kerman,10502245,SD NEGERI 106III MUAK,SD,N,Muak,-2.18,101.5456
+100000,Prov. Jambi,100200,Kab. Bungo,100208,Kec. Pelepat Ilir,10500939,SD NEGERI 003II DESA DANAU,SD,N,Dusun Danau,-1.6158,102.2105
+100000,Prov. Jambi,100900,Kab. Merangin,100909,Kec. Lembah Masurai,10501183,SD NEGERI 111/VI RANTAU JERING I,SD,N,Jln. Rantau Jering Km.64 Rt.03 Rw.0,-2.34273,102.069516
+100000,Prov. Jambi,100300,Kab. Sarolangun,100305,Kec. Pauh,10505991,SD N 203VII BATU KUCING,SD,N,Jl. Sarolangun - Tembesi - Desa Batu Kucing - Kec. Pauh,-2.1541,102.7969
+20000,Prov. Jawa Barat,21700,Kab. Cirebon,21725,Kec. Pabedilan,20214882,SMP NEGERI 1 PABEDILAN,SMP,N,Jalan Mayjend Sutoyo No. 159,-6.8498,108.7547
+20000,Prov. Jawa Barat,20700,Kab. Cianjur,20708,Kec. Takokak,20203913,SD NEGERI SUKAGALIH 1,SD,N,Kp Sukagalih I,-7.113,106.9608
+20000,Prov. Jawa Barat,20500,Kab. Bogor,20505,Kec. Ciampea,20279822,SMKS PERSADA,SMK,S,JL. CIBANTENG PROYEK,-6.5694,106.7216
+20000,Prov. Jawa Barat,20600,Kab. Sukabumi,20622,Kec. Nagrak,20271229,SDIT AT-TAKWIN,SD,S,Jl.Raya Cibadak-Nagrak No.88,-6.882798,106.794452
+20000,Prov. Jawa Barat,26100,Kota Bogor,26101,Kec. Kota Bogor Selatan,20220354,SMP NEGERI 9 BOGOR,SMP,N,Jalan Dreded V Nomor 14 Bogor,-6.6156,106.8003
+20000,Prov. Jawa Barat,21100,Kab. Garut,21113,Kec. Banjarwangi,69948400,SMA NUSA BANGSA,SMA,S,Kp. Pasirpogor RT 02 RW 06,-7.4279,107.8916
+20000,Prov. Jawa Barat,21500,Kab. Kuningan,21506,Kec. Ciwaru,20213153,SD NEGERI ANDAMUI,SD,N,Dusun Puhun,-7.0351,108.6499
+20000,Prov. Jawa Barat,26500,Kota Bekasi,26504,Kec. Bekasi Timur,20223105,SMP AL WATHONIYAH,SMP,S,Jl. KH. Mas Mansyur No. 76 Bekasi Mede,-6.2375,107.0126
+30000,Prov. Jawa Tengah,31800,Kab. Pati,31804,Kec. Winong,20317127,SD NEGERI GODO 01,SD,N,Jl Godo - Kropak,-6.8609,111.1009
+30000,Prov. Jawa Tengah,32000,Kab. Jepara,32013,Kec. Kalinyamatan,20318348,SD NEGERI TELUK KULON,SD,N,Jl.Purwogondo-Guwosobokerto,-6.7365,110.7104
+30000,Prov. Jawa Tengah,31500,Kab. Grobogan,31511,Kec. Tawangharjo,20314405,SD NEGERI 2 JONO,SD,N,Jono,-7.090317,110.981372
+30000,Prov. Jawa Tengah,36300,Kota Semarang,36303,Kec. Banyumanik,20329396,SD NEGERI BANYUMANIK 03,SD,N,Jl. Bangun Harjo Barat,-7.0761,110.4093
+30000,Prov. Jawa Tengah,32100,Kab. Demak,32108,Kec. Wonosalam,69756201,SMKS AL MADINA,SMK,S,GANG KRANDON RT 3/ RW 4,-6.9016,110.6489
+30000,Prov. Jawa Tengah,32100,Kab. Demak,32113,Kec. Wedung,20319357,SMP NEGERI 2 WEDUNG,SMP,N,Desa Tedunan,-6.718042,110.6533163
+30000,Prov. Jawa Tengah,30300,Kab. Purbalingga,30312,Kec. Bobotsari,20303028,SD NEGERI 2 KARANGTALUN,SD,N,Jl. Desa Karangtalun,-7.3014,109.3795
+30000,Prov. Jawa Tengah,31200,Kab. Wonogiri,31216,Kec. Sidoharjo,20311854,SD N 1 TREMES,SD,N,Tremes,-7.830841,111.089739
+50000,Prov. Jawa Timur,51800,Kab. Malang,51822,Kec. Pakisaji,20518711,SD ISLAM SUTOJAYAN,SD,S,"Jl. RAYA SUTOJAYAN, No.299 RT: 08 RW :01",-8.0737,112.6094
+50000,Prov. Jawa Timur,51300,Kab. Kediri,51314,Kec. Grogol,20511847,SMP NEGERI 2 GROGOL,SMP,N,Jalan Raya Gringging,-7.7488,111.9716
+50000,Prov. Jawa Timur,51700,Kab. Trenggalek,51705,Kec. Dongko,20542468,SMP NEGERI SATU ATAP 1 DONGKO,SMP,N,Dsn. Sobo RT 17 RW 03,-8.2175,111.6038
+50000,Prov. Jawa Timur,50900,Kab. Ngawi,50906,Kec. Kwadungan,20509043,SD NEGERI DINDEN 2,SD,N,Dinden,-7.4857,111.4849
+50000,Prov. Jawa Timur,52800,Kab. Sumenep,52825,Kec. Masalembu,20551892,SMAS DDI MASALEMBU,SMA,S,JL. PENDIDIKAN NO 1 AMBULUNG,-7.1285,114.775
+50000,Prov. Jawa Timur,56000,Kota Surabaya,56022,Kec. Simokerto,20532498,SMP MUHAMMADIYAH 1,SMP,S,Jl. Kapasan 73-75 Surabaya,-7.2395,112.7497
+50000,Prov. Jawa Timur,51700,Kab. Trenggalek,51702,Kec. Munjungan,20541984,SD NEGERI 1 MASARAN,SD,N,RT. 35 RW. 08 Desa Masaran,-8.3027,111.5551
+50000,Prov. Jawa Timur,51500,Kab. Blitar,51520,Kec. Srengat,20514153,SD NEGERI SRENGAT 03,SD,N,Jalan Sidowayah,-8.0676,112.0638
+130000,Prov. Kalimantan Barat,130400,Kab. Sintang,130412,Kec. Tempunak,30107695,SMP NEGERI 6 TEMPUNAK,SMP,N,JL.Lintas Saran,-0.3272,111.3247
+130000,Prov. Kalimantan Barat,130800,Kab. Bengkayang,130804,Kec. Bengkayang,30108268,SMAN 2 BENGKAYANG,SMA,N,JL. SANGGAULEDO,0.8708597,109.5110744
+130000,Prov. Kalimantan Barat,136000,Kota Pontianak,136006,Kec. Pontianak Tenggara,30105223,SMP AL MA ARIF,SMP,S,Jl.imam Bonjol Gg. Basir,-0.0436,109.3541
+130000,Prov. Kalimantan Barat,130200,Kab. Mempawah,130210,Kec. Mempawah Hilir,30101519,SDN 10 MEMPAWAH HILIR,SD,N,Jl. Dg. Menambon,0.3425117,108.9635333
+130000,Prov. Kalimantan Barat,130600,Kab. Ketapang,130611,Kec. Sungai Laur,30103865,SD NEGERI 10 SUNGAI LAUR,SD,N,Jl.Trans Kalimantan Kec. Sungai Laur,-0.9018,110.4396
+130000,Prov. Kalimantan Barat,130900,Kab. Landak,130905,Kec. Mandor,69822724,SMAS BINA SETIA SEKILAP,SMA,S,SEKILAP-MANDOR,0.3759,109.5124
+130000,Prov. Kalimantan Barat,130600,Kab. Ketapang,130601,Kec. Kendawangan,30103298,SD NEGERI 28 KENDAWANGAN,SD,N,Dusun Teluk Bayur,-2.4346,110.5202
+130000,Prov. Kalimantan Barat,130100,Kab. Sambas,130109,Kec. Paloh,30100185,SDN 17 CEREMAI,SD,N,Dsn. Setinggak,1.8522,109.3706
+150000,Prov. Kalimantan Selatan,150500,Kab. Hulu Sungai Selatan,150505,Kec. Kandangan,30301799,SMAN 3 KANDANGAN,SMA,N,JALAN KAMBOJA,-2.775585,115.26601
+150000,Prov. Kalimantan Selatan,150900,Kab. Kota Baru,150908,Kec. Kelumpang Hilir,30303515,SDN Langadai,SD,N,Jl. H. Nasri Langadai,-3.2158,116.1526
+150000,Prov. Kalimantan Selatan,150900,Kab. Kota Baru,150906,Kec. Pulau Laut Utara,30311707,SMPLB SUMBER ASIH,SMPLB,S,Jln. Panorama No. 11,-3.892219,116.125241
+150000,Prov. Kalimantan Selatan,156000,Kota Banjarmasin,156005,Kec. Banjarmasin Tengah,30304212,SMP NEGERI 26,SMP,N,"Jl. Jend. A. Yani Km. 2,5 No.180",-3.3254,114.6034
+150000,Prov. Kalimantan Selatan,150500,Kab. Hulu Sungai Selatan,150509,Kec. Daha Selatan,30301659,SD NEGERI PARIGI 1,SD,N,Jalan Teluk Baru No. 100 RT. 05 RK. II,-2.6349,115.0802
+150000,Prov. Kalimantan Selatan,156100,Kota Banjarbaru,156104,Kec. Banjarbaru Utara,30304592,SMKS YPK BANJARBARU,SMK,S,JL. SUKARELAWAN BANJARBARU,-3.438172,114.844037
+150000,Prov. Kalimantan Selatan,150600,Kab. Hulu Sungai Tengah,150605,Kec. Barabai,30302092,SD NEGERI 2 PAJUKUNGAN,SD,N,Jl. Sandang Pangan,-2.5321,115.2762
+150000,Prov. Kalimantan Selatan,151000,Kab. Balangan,151006,Kec. Halong,69900718,SMP NEGERI 6 HALONG SATU ATAP,SMP,N,DS. MAMANTANG KEC. HALONG,-2.3626899,115.7812824
+140000,Prov. Kalimantan Tengah,140400,Kab. Kotawaringin Timur,140423,Kec. Antang Kalang,69787998,SDS ANWAR KARIM VII,SD,S,Antang Kalang,-1.7585,112.5659
+140000,Prov. Kalimantan Tengah,140200,Kab. Barito Selatan,140212,Kec. Gunung Bintang Awai,69761876,SMP NEGERI SATU ATAP 6 GUNUNG BINTANG AWAI,SMP,N,Muara Singan,-1.5314,115.0983
+140000,Prov. Kalimantan Tengah,140600,Kab. Katingan,140608,Kec. Katingan Tengah,30202751,SMAN 1 KATINGAN TENGAH,SMA,N,JL. SMA No.1,-1.4615,113.1014
+140000,Prov. Kalimantan Tengah,146000,Kota Palangka Raya,146001,Kec. Pahandut,30203596,SD NEGERI 12 LANGKAI,SD,N,Jl. RTA. Milono Km. 6,-2.264,113.9227
+140000,Prov. Kalimantan Tengah,140100,Kab. Kapuas,140115,Kec. Mantangai,69728367,SMP NEGERI 5 MANTANGAI SATU ATAP,SMP,N,Pantar Kabali,-1.9184,114.4009
+140000,Prov. Kalimantan Tengah,140100,Kab. Kapuas,140119,Kec. Bataguh,30200130,SD NEGERI 1 PULAU KUPANG,SD,N,Jl. H.Syamsuri RT.03,-3.0776,114.3595
+140000,Prov. Kalimantan Tengah,140100,Kab. Kapuas,140119,Kec. Bataguh,30200399,SD NEGERI 3 TERUSAN KARYA,SD,N,Terusan Karya,-3.0453,114.293
+140000,Prov. Kalimantan Tengah,140400,Kab. Kotawaringin Timur,140405,Kec. Pulau Hanaut,30201307,SD NEGERI 7 BAPINANG HILIR LAUT,SD,N,Jl. Bapinang Pagatan Sei Rungun Kab. Kotawaringin Timur,-2.9568,113.056
+160000,Prov. Kalimantan Timur,161000,Kab. Kutai Timur,161005,Kec. Sangkulirang,69877316,SD KHARISMA PERSADA SANGKULIRANG,SD,S,"JL. POROS PERUM STAF AFD. FANTA, PT. SKP",1.044,118.087
+160000,Prov. Kalimantan Timur,166000,Kota Samarinda,166006,Kec. Samarinda Utara,30401359,SD Negeri 005 Samarinda Utara,SD,N,Jl. Meranti Talangsari,-0.4609506,117.1948959
+160000,Prov. Kalimantan Timur,160300,Kab. Berau,160301,Kec. Kelay,30404276,SD NEGERI 003 KELAY,SD,N,Kampung Merasa,1.8083,117.2396472
+160000,Prov. Kalimantan Timur,166000,Kota Samarinda,166004,Kec. Sungai Kunjang,30401196,SD Negeri 016 Sungai Kunjang,SD,N,Jl. P. Antasari,-0.497575,117.126825
+160000,Prov. Kalimantan Timur,166000,Kota Samarinda,166009,Kec. Samarinda Kota,30403003,SMP Muhammadiyah 1 Samarinda,SMP,S,Jl. Pangeran Hidayatullah Gg. Bakti No. 06,-0.5011083,117.1544383
+160000,Prov. Kalimantan Timur,160900,Kab. Kutai Barat,160921,Kec. Tering,30402118,SD NEGERI 003 TERING,SD,N,Purworejo,-0.0871,115.6428
+160000,Prov. Kalimantan Timur,160100,Kab. Paser,160104,Kec. Tanah Grogot,30405368,SD KARTIKA V-5 TANAH GROGOT,SD,S,Jl. Anden Oko Tanah Grogot,-1.9074,116.2008
+160000,Prov. Kalimantan Timur,166100,Kota Balikpapan,166103,Kec. Balikpapan Utara,30401410,SD NEGERI 022 BALIKPAPAN UTARA,SD,N,Jl. GN. Stelling RT. 33,-1.2314,116.8472
+340000,Prov. Kalimantan Utara,340300,Kab. Tana Tidung,340303,Kec. Tanah Lia,30402405,SD NEGERI 001 TANA LIA,SD,N,Tanah Merah,3.6731,117.543
+340000,Prov. Kalimantan Utara,340500,Kab. Nunukan,340501,Kec. Krayan,30402647,SD NEGERI 001 KRAYAN,SD,N,Jl. Yuvai Semaring,3.8721,115.7309
+340000,Prov. Kalimantan Utara,340100,Kab. Malinau,340112,Kec. Mentarang Hulu,30405698,SMP NEGERI 1 MENTARANG HULU,SMP,N,Jl. KOFOL RT I,3.8126,116.1884
+340000,Prov. Kalimantan Utara,346000,Kota Tarakan,346003,Kec. Tarakan Barat,30401764,SD NEGERI 011 KARANG BALIK,SD,N,Jl. Adityawarman Rt.10,3.329,117.5926
+340000,Prov. Kalimantan Utara,340500,Kab. Nunukan,340502,Kec. Lumbis,30402698,SD NEGERI 006 LUMBIS,SD,N,"JL. GEREJA KHATOLIK, DESA INTIN",3.6937,116.7808
+340000,Prov. Kalimantan Utara,346000,Kota Tarakan,346003,Kec. Tarakan Barat,30401694,SD NEGERI 043 JUATA KERIKIL,SD,N,Jl. Aki Balak Rt. 17 No. 13,3.377,117.5529
+340000,Prov. Kalimantan Utara,340200,Kab. Bulungan,340207,Kec. Tanjung Palas Utara,30402558,SMP NEGERI 1 TANJUNG PALAS UTARA,SMP,N,Jln Upt Pimping,3.0877,117.2168
+340000,Prov. Kalimantan Utara,346000,Kota Tarakan,346003,Kec. Tarakan Barat,30401732,SD KRISTEN TUNAS KASIH,SD,S,Jl. Ki Hajar Dewantara,3.3303,117.5911
+310000,Prov. Kepulauan Riau,316000,Kota Batam,316012,Kec. Batam Kota,11002472,SD MUHAMMADIYAH PLUS,SD,S,Komp. Taman Kurnia Djaya Alam,1.1012,104.0882
+310000,Prov. Kepulauan Riau,316000,Kota Batam,316013,Kec. Sagulung,60728419,SMAN 17 BATAM,SMA,N,KAVLING BUKIT SEROJA.,1.128503,104.121791
+310000,Prov. Kepulauan Riau,316000,Kota Batam,316012,Kec. Batam Kota,11001577,SD NEGERI 006 BATAM KOTA,SD,N,Perum. Taman Raya III,1.1207,104.0936
+310000,Prov. Kepulauan Riau,316000,Kota Batam,316001,Kec. Belakang Padang,11001651,SD NEGERI 015 BELAKANG PADANG,SD,N,Teluk Sunti,1.0245,103.9587
+310000,Prov. Kepulauan Riau,310400,Kab. Lingga,310405,Kec. Lingga Utara,11001523,SMP NEGERI 1 LINGGA UTARA,SMP,N,Jln. Kukang,-0.0534,104.6289
+310000,Prov. Kepulauan Riau,310400,Kab. Lingga,310403,Kec. Senayang,11002606,SMP NEGERI 6 SATU ATAP SENAYANG,SMP,N,Tanjung Kelit,0.0182,104.4942
+310000,Prov. Kepulauan Riau,310300,Kab. Natuna,310313,Kec. Pulau Tiga,11001358,SD N 007 SETUMUK,SD,N,Setumuk,3.6081,108.1007
+310000,Prov. Kepulauan Riau,316000,Kota Batam,316007,Kec. Nongsa,69863920,SMPN 51 Batam,SMP,N,Kav. Senjulung,1.055434,104.12576
+120000,Prov. Lampung,126000,Kota Bandar Lampung,126006,Kec. Tanjung Karang Pusat,10807255,SMP MUH. 2 BANDAR LAMPUNG,SMP,S,Jl. Cut Nyak Dien N0. 53,-5.4124,105.2309
+120000,Prov. Lampung,121100,Kab. Mesuji,121104,Kec. Mesuji Timur,10808133,SD NEGERI 3 TALANG BATU,SD,N,Talang Batu,-4.1053,105.5729
+120000,Prov. Lampung,120200,Kab. Lampung Tengah,120215,Kec. Way Pengubuan,10801768,SD NEGERI 3 BANJAR KERTAHAYU,SD,N,Banjar Kertahayu,-4.8676,105.0768
+120000,Prov. Lampung,120500,Kab. Tulang Bawang,120519,Kec. Banjar Margo,10808577,SD NEGERI 1 AGUNG JAYA,SD,N,AGUNG JAYA,-4.211,105.1937
+120000,Prov. Lampung,120200,Kab. Lampung Tengah,120222,Kec. Bumi Nabung,10802449,SD NEGERI 2 BUMI NABUNG UTARA,SD,N,Bumi Nabung Utara,-4.6705,105.5406
+120000,Prov. Lampung,120200,Kab. Lampung Tengah,120213,Kec. Seputih Surabaya,10802463,SD NEGERI 2 GAYA BARU IV,SD,N,Gaya Baru IV,-4.7214,105.646
+120000,Prov. Lampung,120200,Kab. Lampung Tengah,120208,Kec. Terbanggi Besar,10802178,SD NEGERI 1 KARANG ENDAH,SD,N,Jl.dua Karang Endah,-4.9294,105.2447
+120000,Prov. Lampung,120700,Kab. Lampung Timur,120718,Kec. Mataram Baru,69795842,SMKS ISLAM ASSYARONIYYAH,SMK,S,Jl. Sukosari Timur No 13 Sukosari Teluk Dalem,-5.2409,105.7485
+210000,Prov. Maluku,210700,Kab. Kepulauan Aru,210702,Kec. Aru Tengah,60101852,SD KRISTEN GARDAKAU,SD,S,Desa Gardakau,-6.150125,134.3569
+210000,Prov. Maluku,210100,Kab. Maluku Tengah,210118,Kec. Teluk Elpaputih,69937942,SMA NEGERI 3 TELUK ELPAPUTIH,SMA,N,Jl. Trans Seram - Desa Waraka,,
+210000,Prov. Maluku,210100,Kab. Maluku Tengah,210108,Kec. Saparua,60100168,SMKN 1 SAPARUA,SMK,N,WAISISIL,-3.5855583,128.6533467
+210000,Prov. Maluku,210200,Kab. Maluku Tenggara,210214,Kec. Manyeuw,60100910,SD NASKAT DEBUT,SD,S,Desa Debut,-5.7397,132.6841
+210000,Prov. Maluku,216000,Kota Ambon,216001,Kec. Nusaniwe,60102013,SMAN 6 AMBON,SMA,N,JL. AMAN HUSE - AMAHUSU,-3.7195,128.15
+210000,Prov. Maluku,210100,Kab. Maluku Tengah,210105,Kec. Amahai,60100270,SD NEGERI YAINUELO,SD,N,Yainuelo,-3.3528,129.023
+210000,Prov. Maluku,216000,Kota Ambon,216001,Kec. Nusaniwe,60101956,SD NEGERI 69 AMBON,SD,N,Jln. St. Babullah,-3.6821,128.0699
+210000,Prov. Maluku,210300,Kab. Buru,210317,Kec. Batabual,60101009,SD NEGERI 5 BATABUAL,SD,N,Ilath,-3.5751,127.2454
+270000,Prov. Maluku Utara,270400,Kab. halmahera Utara,270403,Kec. Kao,60200369,SD INPRES KAO,SD,N,Jalan Olah Raga,1.1944,127.8972
+270000,Prov. Maluku Utara,270500,Kab. Halmahera Selatan,270518,Kec. Bacan Timur Selatan,60202388,SD NEGERI 220 HALMAHERA SELATAN,SD,N,Jln. Karyanga,-0.5885,127.5539
+270000,Prov. Maluku Utara,270300,Kab. Halmahera Barat,270306,Kec. Jailolo,60200146,SD GMIH TEDENG,SD,S,Jln. Ir. Soekarno,1.1431,127.5243
+270000,Prov. Maluku Utara,270300,Kab. Halmahera Barat,270302,Kec. Sahu,60202739,SD NEGERI 19 HALMAHERA BARAT,SD,N,JL. LAKO AKEDIRI,1.1392,127.5434
+270000,Prov. Maluku Utara,270600,Kab. Halmahera Timur,270608,Kec. Maba Tengah,60201328,SD NEGERI WAYAMLI,SD,N,JL. SISWA,0.7796,127.7776
+270000,Prov. Maluku Utara,270300,Kab. Halmahera Barat,270305,Kec. Jailolo Selatan,60202150,SD NEGERI 38 HALMAHERA BARAT,SD,N,Ratem,0.9251,127.5118
+270000,Prov. Maluku Utara,270800,Kab. Kepulauan Morotai,270802,Kec. Morotai Selatan,69905484,SMA NEGERI 5 PULAU MOROTAI,SMA,N,Jln. Siswa Sabatai Tua,2.0593167,128.4171333
+270000,Prov. Maluku Utara,276000,Kota Ternate,276003,Kec. Ternate Utara,60200711,SMAS AL KHAIRAAT KOTA TERNATE,SMA,S,JL. DARUL KHAIRAAT,0.8123,127.384
+230000,Prov. Nusa Tenggara Barat,230100,Kab. Lombok Barat,230106,Kec. Gunung Sari,50219425,SD-SMP SATU ATAP 1 GUNUNGSARI,SMP,N,Jl.Jurusan Tanjung dusun Wadon,-8.5288,116.1022
+230000,Prov. Nusa Tenggara Barat,230200,Kab. Lombok Tengah,230202,Kec. Pujut,50201408,SMP NEGERI 1 PUJUT,SMP,N,Sengkol Pujut,-8.8007,116.2937
+230000,Prov. Nusa Tenggara Barat,230200,Kab. Lombok Tengah,230208,Kec. Pringgarata,50201511,SD NEGERI REPOK PIDENDANG,SD,N,REPOK PIDENDANG,-8.569,116.2876
+230000,Prov. Nusa Tenggara Barat,230400,Kab. Sumbawa,230405,Kec. Alas,50203323,SMAS MUHAMMADIYAH ALAS,SMA,S,JL. UNDRU NO 15 ALAS,-8.5145,116.9961
+230000,Prov. Nusa Tenggara Barat,230600,Kab. Bima,230603,Kec. Woha,50204076,SLB AL MUSLIMUN WOHA,SLB,S,Jalan Anggrek 1 No. 03 Rasabou,-8.6036,118.6886
+230000,Prov. Nusa Tenggara Barat,230500,Kab. Dompu,230502,Kec. Dompu,50203594,SD NEGERI 23 DOMPU,SD,N,Palikarawe,-8.6113,118.4394
+230000,Prov. Nusa Tenggara Barat,230300,Kab. Lombok Timur,230311,Kec. Labuhan Haji,50202156,SD NEGERI 3 TANJUNG,SD,N,Tanjung,-8.6622,116.5577
+230000,Prov. Nusa Tenggara Barat,230300,Kab. Lombok Timur,230309,Kec. Aikmel,50202419,SMAS NW KALIJAGA,SMA,S,DASAN BARU,-8.5936,116.5531
+240000,Prov. Nusa Tenggara Timur,241600,Kab. Manggarai Barat,241605,Kec. Macang Pacar,69733779,SMP NEGERI 5 MACANG PACAR,SMP,N,WAKA PAU,-8.4575,120.1735
+240000,Prov. Nusa Tenggara Timur,240500,Kab. Belu,240508,Kec. Lamakmen,50301367,SDK FULUR II,SD,S,Fulur,-9.0897,125.1318
+240000,Prov. Nusa Tenggara Timur,240500,Kab. Belu,240505,Kec. Tasifeto Barat,50301365,SDK HALITUKU,SD,S,Halituku,-9.141,124.8554
+240000,Prov. Nusa Tenggara Timur,241600,Kab. Manggarai Barat,241606,Kec. Boleng,69733790,SMP NEGERI 3 BOLENG,SMP,N,MERAWANG,-8.4128,120.0376
+240000,Prov. Nusa Tenggara Timur,241100,Kab. Manggarai,241104,Kec. Satarmese,69932979,SMP Negeri 15 Satarmese,SMP,N,Desa Ulu Belang,-8.6799865,120.4327807
+240000,Prov. Nusa Tenggara Timur,242200,KAB. MALAKA,242226,Kec. Sasitamean,50301461,SD INPRES FATUKRO,SD,N,Fatukro,-9.516,124.8636
+240000,Prov. Nusa Tenggara Timur,240100,Kab. Kupang,240114,Kec. Kupang Timur,69752275,SD NEGERI KOAT,SD,N,KOAT,-10.156,123.7789
+240000,Prov. Nusa Tenggara Timur,240800,Kab. Sikka,240810,Kec. Waigete,50309269,SDN KLAHIT,SD,N,Klahit,-8.6982,122.4977
+250000,Prov. Papua,250200,Kab. Biak Numfor,250205,Kec. Biak Kota,60300293,SD NEGERI I BIAK KOTA,SD,N,Jalan Selat Sunda No 10 Biak,-1.1797,136.0844
+250000,Prov. Papua,250700,Kab. Merauke,250727,Kec. Jagebob,60300668,SD INPRES JAGEBOB 13,SD,N,Jagebob 13,-7.6182,140.9565
+250000,Prov. Papua,251500,Kab. Asmat,251501,Kec. Pantai Kasuari,60304102,SD INPRES SIMSAGAR,SD,N,Kampung Simsagar,-6.4016,138.7015
+250000,Prov. Papua,252800,Kab. Memberamo Raya,252806,Kec. Mamberamo Tengah Timur,60304761,SD NEGERI ERRI,SD,N,Kampung Erri,-2.1145,138.2252
+250000,Prov. Papua,253400,Kab. Dogiyai,253409,Kec. Kamu Utara,60301846,SD YPPK IDAKEBO,SD,S,Idakebo,-3.9552,136.0634
+250000,Prov. Papua,250800,Kab. Jaya Wijaya,250854,Kec. Wamena,60301535,SD YPPK KAMA,SD,S,Wesaput,-4.111,139.142
+250000,Prov. Papua,256000,Kota Jayapura,256003,Kec. Jayapura Selatan,60301075,SMP NEGERI 9 JAYAPURA,SMP,N,Jl. Amphibi Hamadi Jayapura,-2.5673,140.71
+250000,Prov. Papua,251300,Kab. Boven Digoel,251305,Kec. Woropko,60302144,SMP NEGERI 1 WAROPKO,SMP,N,Waropko,-5.6023,140.8582
+320000,Prov. Papua Barat,320600,Kab. Sorong Selatan,320602,Kec. Kokoda,69940402,SD NEGERI NO. 19 KOREWATARA,SD,N,Kampung Korewatara Distrik Kokoda,-2.2308585,132.3595459
+320000,Prov. Papua Barat,320500,Kab. Manokwari,320514,Kec. Manokwari Timur,60402105,SD YPK 19 FIRDAUS AROWI,SD,S,Kampung Arowi 2,-0.874,134.1278
+320000,Prov. Papua Barat,320500,Kab. Manokwari,320523,Kec. Masni,69786537,SD NEGERI WARIKON,SD,N,KAMPUNG WARIKON,-1.0783382,133.6605362
+320000,Prov. Papua Barat,320200,Kab. Kaimana,320202,Kec. Teluk Arguni Atas,60401576,SD INPRES SKARIWARA,SD,N,Kampung Tugumawa,-3.068602,133.7203
+320000,Prov. Papua Barat,320100,Kab. Fak-Fak,320103,Kec. Fak-fak,60401099,SMP YPK FAKFAK,SMP,S,Jl/d.i.panjaitan,-2.9281,132.307
+320000,Prov. Papua Barat,321000,Kab. Maybrat,321091,Kec. Aifat Timur Tengah,60403828,SMP NEGERI 1 AIFAT TIMUR,SMP,N,Kampung Ayata,-1.272,132.523
+320000,Prov. Papua Barat,320800,Kab. Raja Ampat,320814,Kec. Warwarbomi,60401845,SD YPK EDEN WARKORI/BONI,SD,S,Kampung  Warkori,-0.0347,131.0776
+320000,Prov. Papua Barat,321000,Kab. Maybrat,321012,Kec. Aitinyo Tengah,60403819,SD YPK PERSIAPAN SABUN,SD,S,Kampung Sabun,-1.3272,132.5875
+90000,Prov. Riau,90100,Kab. Kampar,90112,Kec. Tapung Hilir,10494919,SD NEGERI 001 SEKIJANG,SD,N,Desa Sekijang,0.4756,101.097
+90000,Prov. Riau,90400,Kab. Indragiri Hulu,90401,Kec. Peranap,10401540,SMP NEGERI 3 PERANAP,SMP,N,Jl. Poros N0 09 Pandan wangi Peranap Indragiri Hulu Riau,-0.5063,101.9964
+90000,Prov. Riau,91400,Kab. Kuantan Singingi,91410,Kec. Singingi Hilir,10403871,SD NEGERI 006 SUNGAI BULUH,SD,N,Jl.Pendidikan No.1,-0.2689,101.4188
+90000,Prov. Riau,91400,Kab. Kuantan Singingi,91402,Kec. Kuantan Tengah,10403823,SD NEGERI 013 PINTU GOBANG KARI,SD,N,Jl. Utama Dusun Manggis,-0.6969,101.6153
+90000,Prov. Riau,91100,Kab. Siak,91109,Kec. Kandis,10404882,SD NEGERI 04 SAM-SAM,SD,N,Perkebunan Sungai Rokan,0.8921,101.2414
+90000,Prov. Riau,90100,Kab. Kampar,90118,Kec. Kampar Timur,10400250,SMP NEGERI 1 KAMPAR TIMUR,SMP,N,Jl Raya Pekan Baru Bangkinang,0.1873,101.2757
+90000,Prov. Riau,91000,Kab. Rokan Hilir,91005,Kec. Bagan Sinembah,10405478,SD SWASTA SUNGAI DUA,SD,S,Jl. Sungai Dua Km. 37 RT.01/02,1.6896,100.5935
+90000,Prov. Riau,90900,Kab. Rokan Hulu,90904,Kec. Tambusai,10405774,SD SWASTA HUTA BARU SEI KAPORO,SD,S,SEI KAPORO,0.9937,100.2682
+330000,Prov. Sulawesi Barat,330400,Kab. Mamasa,330401,Kec. Sumarorong,40601021,SD NEGERI 010 KABANIRAN,SD,N,Kabaniran,-3.1702,119.39
+330000,Prov. Sulawesi Barat,330600,KAB. MAMUJU TENGAH,330604,KEC. TOBADAK,40604707,SD NEGERI KECIL TANETE BAHA,SD,N,Jalan Tanete baha,-2.0686,119.4617
+330000,Prov. Sulawesi Barat,330300,Kab. Polewali Mandar,330305,Kec. Polewali,40600865,SD NEGERI 001 POLEWALI,SD,N,Jl.ahmad Yani No.102,-3.435,119.35
+330000,Prov. Sulawesi Barat,330100,Kab. Mamuju,330106,Kec. Tapalang Barat,40604314,SD Negeri Suri,SD,N,SURI,-2.7202,118.8524
+330000,Prov. Sulawesi Barat,330300,Kab. Polewali Mandar,330303,Kec. Campalagian,40600937,SD NEGERI 040 PALLUDAI,SD,N,PALLUDAI,-3.4635,119.1912
+330000,Prov. Sulawesi Barat,330200,Kab. Mamuju Utara,330207,Kec. Bulu Taba,40601855,SMAN 1 BULUTABA,SMA,N,JL. SULTAN HASANUDDIN,-1.4752,119.4189
+330000,Prov. Sulawesi Barat,330300,Kab. Polewali Mandar,330304,Kec. Wonomulyo,40600907,SD NEGERI 005 SIDODADI,SD,N,Jl.veteran No. 57,-3.4079,119.2087
+330000,Prov. Sulawesi Barat,330200,Kab. Mamuju Utara,330211,Kec. Bambaira,40601727,SDN BARUGA,SD,N,BARUGA,-0.9692,119.5256
+190000,Prov. Sulawesi Selatan,196200,Kota Palopo,196201,Kec. Wara,40307825,SMKS HANDAYANI UTAMA PALOPO,SMK,S,ANGGREK UJUNG BLOK BB/CC,-3.0112,120.2006
+190000,Prov. Sulawesi Selatan,191800,Kab. Tana Toraja,191805,Kec. Saluputti,40306368,SD NEGERI 349 BATU MESSILA,SD,N,Salutandung,-3.0337,119.7382
+190000,Prov. Sulawesi Selatan,191400,Kab. Pinrang,191405,Kec. Patampanua,40305200,SD NEGERI 115 PATAMPANUA,SD,N,Sengae,-3.7335,119.6269
+190000,Prov. Sulawesi Selatan,191800,Kab. Tana Toraja,191801,Kec. Bonggakaradeng,40309802,SMP NEGERI 2 BONGGAKARADENG,SMP,N,Buakayu,-3.1993,119.7231
+190000,Prov. Sulawesi Selatan,190900,Kab. Soppeng,190901,Kec. Marioriwawo,40303905,SD NEGERI 154 SEKKANG,SD,N,Takalala,-4.4576,119.9867
+190000,Prov. Sulawesi Selatan,191800,Kab. Tana Toraja,191801,Kec. Bonggakaradeng,40306360,SD NEGERI 303 LIMBONGDEATA,SD,N,Mappa,-3.2789,119.6376
+190000,Prov. Sulawesi Selatan,190700,Kab. Bone,190716,Kec. Ulaweng,40310411,SD INPRES 12/79 TADANG PALIE,SD,N,Awoe,-4.4747,120.1105
+190000,Prov. Sulawesi Selatan,190300,Kab. Gowa,190307,Kec. Tinggi Moncong,40314510,SD INPRES PALLANGGA,SD,N,JL.KR.NUMPA NO.56 PALANGGA KECAMATAN TINGGIMONCONG,-5.2706,119.857
+180000,Prov. Sulawesi Tengah,180200,Kab. Donggala,180220,Kec. Rio Pakava,69758293,SDN 21 RIO PAKAVA,SD,N,Palu-Lalundu,-1.336542,119.5512
+180000,Prov. Sulawesi Tengah,180900,Kab. Tojo Una-Una,180903,Kec. Ampana Tete,40203388,SD NEGERI 1 TETE,SD,N,Jl. Trans Sulawesi,-0.8798,121.652
+180000,Prov. Sulawesi Tengah,180100,Kab. Banggai Kepulauan,180104,Kec. Tinangkung,40200192,SMP NEGERI 2 TINANGKUNG,SMP,N,JLN. UNTAD. NO. 25 BULUNGKOBIT,-1.2444,123.2903
+180000,Prov. Sulawesi Tengah,180800,Kab. Parigi Moutong,180821,Kec. Balinggi,40203007,SD NEGERI MALAKOSA,SD,N,Desa Malakosa,-0.9684,120.3999
+180000,Prov. Sulawesi Tengah,180600,Kab. Tolitoli,180606,Kec. Tolitoli Utara,40202417,SD NEGERI 2 SALUMPAGA,SD,N,Desa Salumpaga,1.3378,120.9799
+180000,Prov. Sulawesi Tengah,180400,Kab. Banggai,180406,Kec. Pagimana,40201509,SD INPRES LAMBULI,SD,N,Desa Lambuli,-0.8064,122.5256
+180000,Prov. Sulawesi Tengah,180300,Kab. Poso,180305,Kec. Poso Pesisir,40201153,SD NEGERI SAATU,SD,N,Desa Saatu,-1.3986,120.6318
+180000,Prov. Sulawesi Tengah,181000,Kab. Sigi,181008,Kec. Dolo Selatan,40200549,SD NEGERI 1 BANGGA,SD,N,Jl. Palu Bangga,-1.2342,119.9231
+200000,Prov. Sulawesi Tenggara,200100,Kab. Konawe,200143,Kec. Konawe,40400508,SD NEGERI 1 TAWANGA,SD,N,Jl. Lahasa,-3.8698,122.2146
+200000,Prov. Sulawesi Tenggara,200500,Kab. Konawe Selatan,200521,Kec. Benua,40401825,SD NEGERI 6 BENUA,SD,N,Puosu,-4.2385,122.1165
+200000,Prov. Sulawesi Tenggara,201400,Kab. Buton Selatan,201401,Kec. Batauga,69728754,SD NEGERI 3 BUSOA,SD,N,Lingkungan Batauga,-5.5876,122.5922
+200000,Prov. Sulawesi Tenggara,200600,Kab. Wakatobi,200604,Kec. Wangi-Wangi,40402276,SD NEGERI POOKAMBUA,SD,N,JLN.POROS POOKAMBUA TEEMONGKONA,-5.2964,123.5793
+200000,Prov. Sulawesi Tenggara,200100,Kab. Konawe,200109,Kec. Sampara,40405684,SMPN SATU ATAP 3 SAMPARA,SMP,N,Desa Andepali,-3.9997925,122.3989354
+200000,Prov. Sulawesi Tenggara,201300,Kab. Muna Barat,201310,Kec. Tiworo Kepulauan,40400685,SMPN 1 TIKEP,SMP,N,Tiworo,-4.7926883,122.43308
+200000,Prov. Sulawesi Tenggara,200700,Kab. Bombana,200717,Kec. Kep. Masaloka Raya,40404017,SMP NEGERI 17 KEP. MASALOKA RAYA,SMP,N,Jln. Poros Masaloka Timur,-4.8192,122.1372
+200000,Prov. Sulawesi Tenggara,200200,Kab. Muna,200202,Kec. Parigi,40405134,SMP NEGERI SATAP 1 PARIGI,SMP,N,DESA WAPUALE,-5.1232,122.4505
+170000,Prov. Sulawesi Utara,170400,Kab. Kepulauan Talaud,170418,Kec. Essang Selatan,40103538,SMA NEGERI 1 SAMBUARA,SMA,N,Jl. Raya Sambuara Ensem,4.3586,126.6921
+170000,Prov. Sulawesi Utara,170200,Kab. Minahasa,170234,Kec. Tombulu,40104902,SMAN 1 TOMBULU,SMA,N,JL. KEMBES SATU TOMBULU,1.3942,124.8591
+170000,Prov. Sulawesi Utara,170500,Kab. Minahasa Selatan,170509,Kec. Amurang,40103904,SMA NEGERI 1 AMURANG,SMA,N,"JL. TRANS SULAWESI, KEL. BITUNG, KEC. AMURANG",0.8978,124.5082
+170000,Prov. Sulawesi Utara,171000,Kab. Minahasa Tenggara,171002,Kec. Pusomaen,40103493,SMP NEGERI 1 PUSOMAEN,SMP,N,PUSOMAEN,1.0049,124.8909
+170000,Prov. Sulawesi Utara,170100,Kab. Bolaang Mongondaw,170111,Kec. Lolak,40100499,SD NEGERI 1 MOTABANG,SD,N,Motabang,0.8773,124.0039
+170000,Prov. Sulawesi Utara,170100,Kab. Bolaang Mongondaw,170133,Kec. Bolaang Timur,40100243,SD NEGERI BANTIK,SD,N,Bantik,0.9415,124.1626
+170000,Prov. Sulawesi Utara,170400,Kab. Kepulauan Talaud,170417,Kec. Pulutan,40101804,SD KRISTEN BAITANI PULUTAN,SD,S,Pulutan,4.1484,126.795
+170000,Prov. Sulawesi Utara,170400,Kab. Kepulauan Talaud,170408,Kec. Gemeh,40101771,SMP NEGERI 3 GEMEH,SMP,N,Bannada,4.4637,126.8553
+80000,Prov. Sumatera Barat,80100,Kab. Agam,80108,Kec. Baso,10300100,SD NEGERI 21 KOTO TUO BASO,SD,N,Koto Tuo Baso,-0.3403,100.3549
+80000,Prov. Sumatera Barat,80100,Kab. Agam,80101,Kec. Tanjung Mutiara,10300208,SD NEGERI 17 BUKIK MALINTANG,SD,N,Bukik Malintang,-0.2807,99.8088
+80000,Prov. Sumatera Barat,80800,Kab. Sijunjung,80805,Kec. Kamang Baru,10302804,SMAN 6 SIJUNJUNG,SMA,N,JL. LINTAS KILIRAN JAO TELUK KUANTAN KM 10,-0.822,101.3885
+80000,Prov. Sumatera Barat,80100,Kab. Agam,80114,Kec. Candung,10300433,SD NEGERI 01 TIGO ALUA,SD,N,Tigo Alua,-0.3101,100.459
+80000,Prov. Sumatera Barat,80200,Kab. Pasaman,80219,Kec. Rao Selatan,10307598,SMKN 1 RAO SELATAN,SMK,N,JL. MEDAN PADANG,0.4883,100.0404
+80000,Prov. Sumatera Barat,80600,Kab. Pesisir Selatan,80605,Kec. Ranah Pesisir,10301839,SDN 29 KOTO PANJANG,SD,N,Jl. Raya Padang-sei Penuh,-1.7588,100.7623
+80000,Prov. Sumatera Barat,80200,Kab. Pasaman,80214,Kec. Mapat Tunggul,10308293,SMP NEGERI 4 MAPAT TUNGGUL,SMP,N,Lubuk Gadang,0.3506,100.3455
+80000,Prov. Sumatera Barat,80500,Kab. Padang Pariaman,80517,Kec. 2 x 11 Kayu Tanam,10307009,SD N 04 2 X 11 KAYU TANAM,SD,N,Ps. Karmabie Guguk,-0.5257,100.3375
+110000,Prov. Sumatera Selatan,116000,Kota Palembang,116013,Kec. Bukit Kecil,10603517,SD NEGERI 160 PALEMBANG,SD,N,Jl. Radial,-2.9827,104.7506
+110000,Prov. Sumatera Selatan,110500,Kab. Lahat,110519,Kec. Kikim Selatan,10644027,SDN 14 KIKIM SELATAN,SD,N,Desa Pandan Arang,-3.7625,103.2243
+110000,Prov. Sumatera Selatan,111000,Kab. Ogan Ilir,111005,Kec. Pemulutan,10605849,SD NEGERI 20 PEMULUTAN,SD,N,Desa Sembadak,-3.0986,104.7711
+110000,Prov. Sumatera Selatan,110400,Kab. Muara Enim,110405,Kec. Gunung Megang,10645925,SDN 11 Gunung Megang,SD,N,Jalan Makmur,-3.4975,103.9344
+110000,Prov. Sumatera Selatan,110700,Kab. Banyuasin,110703,Kec. Banyuasin III,10602882,SDN 37 BANYUASIN III,SD,N,Jalan Buyut Imad,-2.9488,104.334
+110000,Prov. Sumatera Selatan,110800,Kab. Ogan Komering Ulu Timur,110814,Kec. Semendawai Barat,10606100,SD NEGERI 01 KANGKUNG,SD,N,Jl. Kabupaten RT 02 RW 02 Desa Kangkung,-3.8072,104.6137
+110000,Prov. Sumatera Selatan,110800,Kab. Ogan Komering Ulu Timur,110818,Kec. Belitang Madang Raya,10606213,SD NEGERI 02 JAYA NEGARA,SD,N,Tanah Merah,-4.063,104.5711
+110000,Prov. Sumatera Selatan,110900,Kab. Ogan Komering Ulu Selatan,110918,Kec. Tiga Dihaji,10610025,SD NEGERI SUKA BUMI,SD,N,Desa Sukabumi,-4.6056,103.8913
+70000,Prov. Sumatera Utara,72100,Kab. Serdang Bedagai,72102,Kec. Dolok Masihul,10209136,SD NEGERI NO 106865 BANDAR PAMAH,SD,N,Bandar Pamah,3.3571,99.2689
+70000,Prov. Sumatera Utara,72100,Kab. Serdang Bedagai,72108,Kec. Teluk Mengkudu,10209181,SD NEGERI NO 105407 PEM KEDAH,SD,N,Pem Kedah Dusun Tiga,3.5438333,99.1683117
+70000,Prov. Sumatera Utara,72300,Kab. Padang Lawas utara,72301,Kec. Padang Bolak Julu,10207037,SMPN 1 PADANG BOLAK JULU,SMP,N,Jalan Gunungtua-Padangsidimpuan km.18 Sipupus,1.4066,99.5171
+70000,Prov. Sumatera Utara,76300,Kota Pematangsiantar,76302,Kec. Siantar Selatan,10211682,SMAS MARIA GORETTI,SMA,S,JL. BAHAGIA NO. 1,2.9488,99.061
+70000,Prov. Sumatera Utara,72400,Kab. Padang Lawas,72403,Kec. Barumun Tengah,10207495,SD NEGERI 0201 PASAR BINANGA,SD,N,Binanga,1.4037,99.7769
+70000,Prov. Sumatera Utara,70400,Kab. Simalungun,70423,Kec. Gunung Malela,10259624,SD NEGERI NO 091267 AFD K LARAS,SD,N,Afd K Laras,3.0364,99.2442
+70000,Prov. Sumatera Utara,70600,Kab. Asahan,70607,Kec. Air Batu,10203984,SDN 014668 Air Genting,SD,N,Air Genting Dusun V,2.8667,99.6181
+70000,Prov. Sumatera Utara,70400,Kab. Simalungun,70430,Kec. Pematang Sidamanik,10202212,SD No. 096770 Pem. Sidamanik,SD,N,Manik Huluan,2.9468,98.5571
+170000,Prov. Sulawesi Utara,176000,Kota Manado,176004,Kec. Mapanget,40102813,SD GMIM MAPANGET BARAT,SD,S,LINGKUNGAN TIGA,1.5469,124.9194
+180000,Prov. Sulawesi Tengah,180600,Kab. Tolitoli,180602,Kec. Dampal Utara,40202261,SMP NEGERI 2 DAMPAL UTARA,SMP,N,Jl. Hi. Tunggala No. 01,0.9457,120.3346
+110000,Prov. Sumatera Selatan,110400,Kab. Muara Enim,110405,Kec. Gunung Megang,10645925,SDN 11 Gunung Megang,SD,N,Jalan Makmur,-3.4975,103.9344
+130000,Prov. Kalimantan Barat,131300,Kab. Kuburaya,131304,Kec. Sungai Ambawang,30101648,SD NEGERI 05 SUNGAI AMBAWANG,SD,N,Jl. Bengkarek,-0.1472,109.5545
+140000,Prov. Kalimantan Tengah,140500,Kab. Kotawaringin Barat,140508,Kec. Pangkalan Banteng,30204702,SDS HARAPAN SEJAHTERA,SD,S,PT. GSDI Desa Sungai Bengkuang,-2.3293,111.8834
+140000,Prov. Kalimantan Tengah,140200,Kab. Barito Selatan,140212,Kec. Gunung Bintang Awai,30200744,SD NEGERI KAYUMBAN,SD,N,Kayumban,-1.546,115.0187
+110000,Prov. Sumatera Selatan,110700,Kab. Banyuasin,110701,Kec. Rantau Bayur,10602510,SDN 9 RANTAU BAYUR,SD,N,JALAN RAYA DARAT,-3.0477,104.2902
+110000,Prov. Sumatera Selatan,110200,Kab. Ogan Komering Ilir,110221,Kec. Lempuing Jaya,10608930,SMAN 1 LEMPUING JAYA,SMA,N,JL. LINTAS TIMUR KM. 127,-3.7851,104.8954
+190000,Prov. Sulawesi Selatan,190400,Kab. Takalar,190401,Kec. Mangarabombang,40308486,SD NEGERI NO 185 INPRES SALAMBU,SD,N,Salambu,-5.5837,119.4334
+140000,Prov. Kalimantan Tengah,141000,Kab. Gunung Mas,141001,Kec. Tewah,30205262,SMP NEGERI 3 TEWAH,SMP,N,Jl. Perintis No. 57 Tumbang Lambaing,-1.0284,113.7294
+70000,Prov. Sumatera Utara,72400,Kab. Padang Lawas,72405,Kec. Huta Raja Tinggi,10207517,SD NEGERI 0709 ALIAGA III,SD,N,UJUNG BATU III,1.1153,100.098
+240000,Prov. Nusa Tenggara Timur,240400,Kab. Timor Tengah Utara,240407,Kec. Noemuti,69768282,SMKN NIBAAF,SMK,N,JL. RAYA KEFAMENANU-HAEKTO,-9.5878,124.5231
+190000,Prov. Sulawesi Selatan,191400,Kab. Pinrang,191404,Kec. Watang Sawitto,40304975,SD NEGERI 285 PINRANG,SD,N,Jl. Briptu Suherman Ex Lasurullah Ulutedong,-3.8143,119.6497
+320000,Prov. Papua Barat,321000,Kab. Maybrat,321011,Kec. Mare,60403950,SD YPPK SEYA,SD,S,Kampung Seya,-1.1074,132.1974
+170000,Prov. Sulawesi Utara,176300,Kota Kotamobagu,176301,Kec. Kotamobagu Barat,40100608,SD NEGERI 2 MOGOLAING,SD,N,Jl. Pribumi,0.7365,124.3057
+270000,Prov. Maluku Utara,270300,Kab. Halmahera Barat,270302,Kec. Sahu,60202739,SD NEGERI 19 HALMAHERA BARAT,SD,N,JL. LAKO AKEDIRI,1.1392,127.5434
+190000,Prov. Sulawesi Selatan,190700,Kab. Bone,190721,Kec. Ajangale,40302965,SD INPRES 12/79 LABISSA,SD,N,Labissa,-4.2602,120.1603
+150000,Prov. Kalimantan Selatan,150500,Kab. Hulu Sungai Selatan,150508,Kec. Kalumpang,30301873,SD NEGERI BAGU TANGGUL 2,SD,N,Desa Bagu Tanggul,-2.8552,115.1881
+60000,Prov. Aceh,61200,Kab. Bireuen,61213,Kec. Kota Juang,10106847,SD NEGERI 18 BIREUEN,SD,N,Jl. Pendidikan Bireuen Meunasah Blang,5.2017,96.872
+10000,Prov. D.K.I. Jakarta,16300,Kota Jakarta Selatan,16305,Kec. Kebayoran Lama,20105917,SDN Grogol Utara 14 Pt.,SD,N,Jl. Kemandoran I,-6.2098,106.79
+100000,Prov. Jambi,100500,Kab. Kerinci,100503,Kec. Keliling Danau,10502618,SD NEGERI 15III TANJUNG PAUH MUDIK,SD,N,Tanjung Pauh Mudik,-2.0943,101.4902
+110000,Prov. Sumatera Selatan,110500,Kab. Lahat,110519,Kec. Kikim Selatan,10644027,SDN 14 KIKIM SELATAN,SD,N,Desa Pandan Arang,-3.7625,103.2243
+160000,Prov. Kalimantan Timur,166000,Kota Samarinda,166006,Kec. Samarinda Utara,30401359,SD Negeri 005 Samarinda Utara,SD,N,Jl. Meranti Talangsari,-0.4609506,117.1948959
+170000,Prov. Sulawesi Utara,170400,Kab. Kepulauan Talaud,170417,Kec. Pulutan,40101804,SD KRISTEN BAITANI PULUTAN,SD,S,Pulutan,4.1484,126.795
+190000,Prov. Sulawesi Selatan,190500,Kab. Jeneponto,190507,Kec. Bontoramba,69930763,SDK Bontobaddo,SD,S,Bontobaddo,-5.5745152,119.68713
+300000,Prov. Gorontalo,300500,Kab. Gorontalo Utara,300508,Kec. Ponelo Kepulauan,40502663,SMP NEGERI 2 PONELO KEPULAUAN,SMP,N,Ponelo Kepulauan,0.8626,122.8869
+190000,Prov. Sulawesi Selatan,190900,Kab. Soppeng,190905,Kec. Donri-Donri,40303613,SD NEGERI 240 WALEMPING,SD,N,Walemping,-4.3208,119.7876
+290000,Prov. Bangka Belitung,290400,Kab. Bangka Barat,290401,Kec. Kelapa,10900611,SMP Negeri 1 Kelapa,SMP,N,Jl. Pusuk No. 6 Kelapa,-1.8753,105.6755
